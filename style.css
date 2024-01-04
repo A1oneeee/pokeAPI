@@ -1,0 +1,24 @@
+body {
+    font-family: 'Mulish';
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+}
+.imgPoke{
+    width: 100px;
+}
+main {
+    background-color: white;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 30px;
+}
+.info {
+    display: flex;
+    justify-content: space-evenly;
+}
+#btn-find{
+    margin-top: 20px;
+}
